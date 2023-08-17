@@ -1,0 +1,20 @@
+.card-container{
+    background-color:#82bda7;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    margin: 1.5rem;
+    width: 50rem;
+}
+
+.cardimg-container{
+    background-color:#c9d1d3;
+    width:50rem;
+}
+
+.cardtext-container{
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+}
+
+.imagenshoes{
+    width: 600px;
+}
